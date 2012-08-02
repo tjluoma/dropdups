@@ -1,12 +1,12 @@
 #!/bin/zsh
 #
+#
 #	Author:	Timothy J. Luoma
 #	Email:		luomat at gmail dot com
 #	Date:		2012-02-21
 #
 #	Purpose: 	Find duplicates in Dropbox
 #
-#	URL:
 #
 #	MAKE_PUBLIC:
 
@@ -181,3 +181,4 @@ done
 
 exit 0
 #EOF
+
